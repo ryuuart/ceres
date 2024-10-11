@@ -11,3 +11,6 @@
 
 # NIX
 .direnv
+
+# Ceres executable
+ceres
