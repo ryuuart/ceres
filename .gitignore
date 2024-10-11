@@ -12,5 +12,6 @@
 # NIX
 .direnv
 
-# Ceres executable
-ceres
+# executables / build artifacts
+bin
+build
